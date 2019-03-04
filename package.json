@@ -9,6 +9,7 @@
   "homepage": "https://github.com/atto-byte/react-ts-component-starter",
   "license": "MIT",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "repository": {
     "type": "<type>",
     "url": "https://github.com/atto-byte/react-ts-component-starter"
