@@ -10,6 +10,7 @@ module.exports = {
     resolve: {
         extensions: [".ts", ".tsx", ".js", ".css"]
     },
+    mode: 'production',
     module: {
         rules: [
             {
